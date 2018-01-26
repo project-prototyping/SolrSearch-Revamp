@@ -4,8 +4,9 @@ All projects in repository require WinRar/Winzip to extract. This is for backup 
 
 ---
 
-References:
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+### Notes and References:
+..* Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+..* internal js library http://localhost/search-recherche/Frontend/wet-boew/js/jquery/2.1.4/jquery.js
 
 ---
 
